@@ -3,7 +3,7 @@
 		{
 			"path": "."
 		}
-	],
+	], 
 	"settings": {
 		"terminal.integrated.defaultProfile.windows": "Conda PS 7"
 	}
